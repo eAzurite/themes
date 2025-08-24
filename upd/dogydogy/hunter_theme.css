@@ -9,10 +9,10 @@
 
 :root {
     --theme-background-image: url(https://raw.githubusercontent.com/eAzurite/themes/refs/heads/main/upd/dogydogy/hunter.gif);
-    --home-icon-image: url(https://raw.githubusercontent.com/eAzurite/themes/refs/heads/main/upd/dogydogy/hunter.gif);
+    --home-icon-image: url(https://raw.githubusercontent.com/eAzurite/themes/refs/heads/main/upd/dogydogy/hunter2.gif);
     --main-theme-color: rgb(67, 181, 129);
     --theme-transparency: rgba(0, 0, 0, 0.8);
-    --home-icon-image-position: right center;
+    --home-icon-image-position: center;
     --home-icon-image-zoom: 170%;
     --server-listing-width: 64px;
     --font-size: 100%;
