@@ -1,17 +1,15 @@
 /**
- * @name Chika vs bedrock
- * @author Xasya
+ * @name Dogy Dogy
+ * @author Someone
  * @version 4
- * @authorLink https://neko.fan
- * @authorId 629971688620163093
- * @source https://github.com/Xasya/theme/tree/main/upd/chika-vs-bedrock
- * @updateUrl https://raw.githubusercontent.com/Xasya/theme/main/upd/chika-vs-bedrock/chica-vs-bedrock-gif.theme.css
+ * @source https://github.com/eAzurite/themes/tree/main/upd/dogydogy
+ * @updateUrl https://github.com/eAzurite/themes/tree/main/upd/dogydogy/dog_theme.css
 */
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 :root {
-    --theme-background-image: url(https://xasya.github.io/theme/upd/chika-vs-bedrock/Chika-Vs-Bedrock.gif);
-    --home-icon-image: url(https://xasya.github.io/theme/upd/chika-vs-bedrock/Fr_Ico.jpg);
+    --theme-background-image: url(https://raw.githubusercontent.com/eAzurite/themes/refs/heads/main/upd/dogydogy/more%20dog.gif);
+    --home-icon-image: url(https://raw.githubusercontent.com/eAzurite/themes/refs/heads/main/upd/dogydogy/one%20dog.gif);
     --main-theme-color: rgb(67, 181, 129);
     --theme-transparency: rgba(0, 0, 0, 0.8);
     --home-icon-image-position: right center;
